@@ -35,12 +35,12 @@ github_repo: "SpektraSystems"
 
 # Optional
 #twitter: vsoch
-#linkedin: vsochat
+linkedin: "Spektra Systems"
 #dockerhub: vanessa
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
-# logo: "assets/img/logo/SRCC-square-red.png"
+logo: "assets/img/favicon.png"
 logo_width: 34
 color: "#8c1515" # primary color for header, buttons
 
@@ -60,8 +60,8 @@ discourse_per_page: 10
 discourse_category: "stanford-research-computing"
 discourse_tags: null # comma separated string, leave null to not filter
 
-accentColor: indigo # purple, green, etc.
-themeColor: indigo # purple, green, blue, orange, purple, grey
+accentColor: orange # purple, green, etc.
+themeColor: orange # purple, green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
 
 permalink: /:year/:title/
